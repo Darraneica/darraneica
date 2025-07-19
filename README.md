@@ -13,10 +13,10 @@ Welcome to my little corner of GitHub - where Python meets real life, and side p
 
 ## What I Built
 Here's a peek at some of my projects:
-- **Clinical Project**
+- **Clinical Project (https://github.com/Darraneica/clinic-project)**
   *The Clinical Project was built using Python and SQLite. It is a simple healthcare management system that creates patient records and doctor appointments.*
 
-- **The Sims 4 Mod Detector**
+- **The Sims 4 Mod Detector (https://github.com/Darraneica/sims4-mod-checker)**
   *The Sims 4 Mod Detector checks for duplicates, bad mods/custom content, and flags any outdated/large mods/custom content.*
  (More in my repos - go explore!)
 
