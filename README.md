@@ -1,4 +1,4 @@
-# Hi, I'm Darraneica!
+# Hi, I'm Dianne!
 
 **Problem solver. Always curious about coding.**
 
@@ -25,7 +25,7 @@ Here's a peek at some of my projects:
 
 ## Let's Connect!
 
-- [LinkedIn] - (https://www.linkedin.com/in/darraneica-robinson-88599a89/)
+- [LinkedIn] - (https://www.linkedin.com/in/dianne-robinson-88599a89/)
 - [Email] - darraneica@gmail.com
 - [Website] - https://darraneica.netlify.app/
 
